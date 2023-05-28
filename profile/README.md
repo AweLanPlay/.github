@@ -1,11 +1,21 @@
 # LanPlay
 
-## What's this? (这是什么)
-It's Minecraft Tools.
-An application to play with your friends. (Client Windows only & Web Platform)
+[Chinese Simpified 简体中文](./README.zh_CN.md)
 
-一个 Minecraft 联机工具.
+## What's this?
+It's a Minecraft Tools.
 
-## Which is best way to play? (使用的最好方式)
-- Client: Offline SinglePlay | Authlib-Injector | Nide8 (统一通行证) | Online SinglePlay
-- Web: Only Infomation
+A new ways to play with your friends. (Client Windows only & Web Platform)
+
+(Now are developing)
+
+## Which is best way to play?
+- Client: Join Players Game Room with 4 ways
+ (Online SinglePlay,Offline SinglePlay,Authlib-Injector and Nide8)
+- Web: Only display infomation (You are only can **copy link or follow** with he/him)
+
+## What about after following?
+
+When he/him started game (and tools),You will recived a new notification about he/him started (You must be sure application started,else cannot recived)
+
+and another,He/him can send notification to invite you join him/hers gaming 
