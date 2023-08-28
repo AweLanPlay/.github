@@ -9,7 +9,10 @@
 * 2023/7/1<BR/>
   建库，建组织。
 * 2023/8/28<BR/>
-  可进行联机操作。
+  可进行联机操作。<BR/>
+  比如这样？
+  ![联机操作](https://github.com/LanLinkStudio/.github/assets/79188080/72599880-b4ec-496d-a76e-c3fe64c9384c)
+
 
 ## What's this?
 It's a Minecraft Tools.
