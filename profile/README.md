@@ -2,6 +2,15 @@
 
 [Chinese Simpified - 简体中文](./profile/README.zh_CN.md)
 
+## 最新进度 [CN-Only]
+
+不好意思，拖得有点久了，不过也有发展哦！**估计**在9月底前能正式发布，敬请期待！
+
+* 2023/7/1<BR/>
+  建库，建组织。
+* 2023/8/28<BR/>
+  可进行联机操作。
+
 ## What's this?
 It's a Minecraft Tools.
 
